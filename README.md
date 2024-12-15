@@ -20,6 +20,8 @@ D133-based smartphone, not Android.
   - audio.
   - IR led.
 
+视频介绍：https://www.bilibili.com/video/BV1njBxYkErg/
+项目地址：https://oshwhub.com/lovelessing/d133-mobile-phone-development-bo
 
 ![DSC00771](https://github.com/user-attachments/assets/f423ff4e-4b62-4201-8a0d-470fdc74b643)
    
