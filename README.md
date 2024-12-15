@@ -21,5 +21,13 @@ D133-based smartphone, not Android.
   - IR led.
 
 
-![IMG_20240705_142953](https://github.com/Cuixudong/D133_Phone/assets/23308519/fd2b8795-354d-4631-ab36-92022766b45a)
+![DSC00771](https://github.com/user-attachments/assets/f423ff4e-4b62-4201-8a0d-470fdc74b643)
+   
+![DSC00770](https://github.com/user-attachments/assets/b4f144b8-c5ac-4f94-9845-0af75a23f1e3)
+   
+![微信截图_20240628165558](https://github.com/user-attachments/assets/442ebabd-348c-4feb-a635-4fd9a2c149a2)
+   
+![微信截图_20240627141443](https://github.com/user-attachments/assets/19fca361-42d9-4a51-9404-b198f4fba5e9)
+   
+![微信截图_20240701092042](https://github.com/user-attachments/assets/db22c5b8-c4cb-4ee1-8bb1-1057305b21d3)
 
